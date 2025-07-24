@@ -30,8 +30,8 @@ Desenvolvido por alunos de Engenharia de Computação do CEFET-MG.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuprojeto/flappyvoice.git
-cd flappyvoice
+git clone https://github.com/adrianpaivaa/TrabalhoFinal-Sinais.git
+cd TrabalhoFinal-Sinais
 ```
 
 2. Instale as dependências:
