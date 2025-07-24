@@ -69,6 +69,13 @@ python jogo.py
 
 ---
 
+## 📊 Diagrama de Fluxo
+
+O diagrama abaixo representa o fluxo principal de funcionamento do sistema:
+
+![Diagrama de Fluxo](imagens/diagrama_fluxo_flappyvoice.png)
+
+
 ## 📸 Imagens
 
 ### Interface do menu do jogo:
