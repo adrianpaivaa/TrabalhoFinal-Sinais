@@ -72,10 +72,10 @@ python jogo.py
 ## 📸 Imagens
 
 ### Interface do jogo em execução:
-![Gameplay](imagens/gameplay.png)
+![Gameplay](imagens/gameplay.jpg)
 
 ### Visualização do espectro de áudio (FFT):
-![Espectrômetro](imagens/espectrometro.png)
+![Espectrômetro](imagens/espectrometro.jpg)
 
 ---
 
