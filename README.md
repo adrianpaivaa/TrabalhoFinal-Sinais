@@ -71,6 +71,9 @@ python jogo.py
 
 ## 📸 Imagens
 
+### Interface do menu do jogo:
+![Menu](imagens/menu.jpg)
+
 ### Interface do jogo em execução:
 ![Gameplay](imagens/gameplay.jpg)
 
